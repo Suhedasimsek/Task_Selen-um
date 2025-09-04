@@ -1,0 +1,8 @@
+pages/CareersPage.class
+utils/ConfigReader.class
+pages/BasePage.class
+tests/InsiderTestSuite.class
+utils/DriverManager.class
+pages/QAJobsPage.class
+tests/BaseTest.class
+pages/InsiderHomePage.class
